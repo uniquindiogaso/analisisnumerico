@@ -1,0 +1,5 @@
+x^3 2 4
+x^4 2 4
+1/(x*(log(x))^2) 2 4
+tan(sqrt(x)) 0 pi/2
+sqrt(tan (x)) 0 1
